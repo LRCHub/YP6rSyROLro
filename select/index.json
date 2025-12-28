@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Desert Diamond",
+  "base_artist": "VOLTACTION",
+  "createdAt": "2025-12-28T04:59:52.171388Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Desert Diamond",
+      "artist": "Alcatrazz",
+      "has_synced": true,
+      "path": "select/01_Desert_Diamond_Alcatrazz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Desert Diamond",
+      "artist": "Alcatrazz",
+      "has_synced": false,
+      "path": "select/02_Desert_Diamond_Alcatrazz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Desert Diamond",
+      "artist": "VOLTACTION",
+      "has_synced": false,
+      "path": "select/03_Desert_Diamond_VOLTACTION.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Desert Diamond",
+      "artist": "VOLTACTION",
+      "has_synced": false,
+      "path": "select/pl_01_Desert_Diamond_VOLTACTION.txt"
+    }
+  ]
+}
